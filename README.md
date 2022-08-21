@@ -16,5 +16,8 @@
 ### 의용소방대원수(180 -> 198)
 ![image01](https://user-images.githubusercontent.com/108262319/185798767-51192f56-740e-4a25-a65c-d87c95751bd5.png)
 
+### 행정구역별 피해액 관련 주요 요인
+![image](https://user-images.githubusercontent.com/108262319/185798830-c4554f8e-b5e1-46fe-95fc-6dd7b73bbf05.png)
+
 ## 흐름도
 ![flowchart](https://user-images.githubusercontent.com/108262319/185798595-ffe6d16b-f626-4c59-9a65-b4e30f833a35.png)
