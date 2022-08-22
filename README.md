@@ -25,5 +25,5 @@
 
 ### 행정구역별 피해액 관련 주요 요인
 <center>
-  <img src="https://user-images.githubusercontent.com/108262319/185798830-c4554f8e-b5e1-46fe-95fc-6dd7b73bbf05.png" width="400" height=auto>
+  <img src="https://user-images.githubusercontent.com/108262319/185798830-c4554f8e-b5e1-46fe-95fc-6dd7b73bbf05.png" width="1000" height=auto>
 </center>
