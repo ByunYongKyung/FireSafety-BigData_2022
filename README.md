@@ -13,7 +13,7 @@
 ### 솔루션 프로세스(flow chart)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108262319/185841083-20785dae-011d-411c-884b-0e50571b6444.png" width="500" height=auto>
+  <img src="https://user-images.githubusercontent.com/108262319/185841083-20785dae-011d-411c-884b-0e50571b6444.png">
 </p>
 
 
