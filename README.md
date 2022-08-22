@@ -12,7 +12,7 @@
 
 ### 솔루션 프로세스(flow chart)
 
-![2022소방안전 빅데이터 플랫폼 순서도 drawio](https://user-images.githubusercontent.com/108262319/185840264-d9df24c9-e078-4420-a9bc-06c88eb662a9.png)
+![2022소방안전 빅데이터 플랫폼 순서도 drawio (1)](https://user-images.githubusercontent.com/108262319/185840589-e34bee27-6299-4650-9f83-2a0e94036064.png)
 
 ## 아이디어 예시
 - 자치구별로 화재 피해액에 영향을 미치는 요인(factor)를 분석하고, 이에 근거하여 자치구별 특성에 맞는 피해 감축방안 수립이 가능 
