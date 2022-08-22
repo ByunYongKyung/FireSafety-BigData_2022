@@ -32,6 +32,7 @@ https://www.bigdata-119.kr/info/noticeInfo?bbsctt_id=361
 </p>
 </br>
 </br>
+
 ## 아이디어 예시
 
 </br>
@@ -39,12 +40,14 @@ https://www.bigdata-119.kr/info/noticeInfo?bbsctt_id=361
 - 서대문구의 경우 화재 피해액에 가장 큰 영향을 미치는 요인은 의용소방대원의 숫자이다. 현재 180명에서 18명을 증원하면 화재 피해액을 감축할 수 있다.
 </br>
 </br>
+
 ### 의용소방대원수(180 -> 198)
 
 </br>
 <img src="https://user-images.githubusercontent.com/108262319/185798767-51192f56-740e-4a25-a65c-d87c95751bd5.png" width="400" height=auto>
 </br>
 </br>
+
 ### 행정구역별 피해액 관련 주요 요인
 
 </br>
